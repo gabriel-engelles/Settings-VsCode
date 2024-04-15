@@ -8,7 +8,7 @@
     "editor.rulers": [80,120],
     "workbench.startupEditor": "newUntitledFile",
     "editor.renderLineHighlight": "gutter",
-    "editor.fontLigatures": true,
+    "editor.fontLigatures": false, //--junção de simbolos
     "workbench.editor.labelFormat": "short",
     "explorer.compactFolders": false,
     "editor.semanticHighlighting.enabled": false,
